@@ -5,7 +5,6 @@ Currently diving deeper into frontend development with Next.js ⚛️.
 
 💼 I'm working as a freelancer and actively seeking new job opportunities in the tech industry 🚀.
 
----
 <img align="right" style="margin-right: 30px" src="https://media.tenor.com/LJC9j1vSkXwAAAAd/j-im-carreytyping-busy-working.gif" height="150" alt="gif of Jim Carrey workin"/>
 
 ---
