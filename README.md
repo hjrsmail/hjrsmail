@@ -6,6 +6,9 @@ Currently diving deeper into frontend development with Next.js ⚛️.
 💼 I'm working as a freelancer and actively seeking new job opportunities in the tech industry 🚀.
 
 ---
+<img align="right" style="margin-right: 30px" src="https://media.tenor.com/LJC9j1vSkXwAAAAd/j-im-carreytyping-busy-working.gif" height="150" alt="gif of Jim Carrey workin"/>
+
+---
 
 ## My Favorite Technologies
 
@@ -32,7 +35,10 @@ Currently diving deeper into frontend development with Next.js ⚛️.
 
 ---
 
-<p align="center"><a href="https://www.linkedin.com/in/hjrsmail/"><img height="50px"src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000"></a></p>
+##My Social Media
+
+<p align="center"><a href="https://www.linkedin.com/in/hjrsmail"><img height="50px"src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000"></a></p>
+<p align="center"><a href="https://www.instagram.com/hjrsmail"><img height="50px"src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000"></a></p>
 
 
 
