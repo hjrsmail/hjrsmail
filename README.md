@@ -7,25 +7,28 @@ Saya adalah seorang web developer dengan minat di bidang frontend & backend, ser
 ## My Favorite Technologies
 
 <a href="https://laravel.com">
-  <img height="50" title="Svelte" alt="Svelte Logo" src="https://github.com/laravel/art/blob/master/laravel-logo.png">
+  <img height="50" title="Laravel" alt="Laravel Logo" src="https://github.com/laravel/art/blob/master/laravel-logo.png">
 </a> &#xa0; &#xa0;
 <a href="https://nextjs.org">
-  <img height="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/next-js.png">
+  <img height="50" title="NextJs" alt="Next Logo" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000">
 </a> &#xa0; &#xa0;
 <a href="https://typescriptlang.org">
-  <img height="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/ts-logo-128.png">
+  <img height="50" title="Typescript" alt="Typescript Logo" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
 </a> &#xa0; &#xa0;
 <a href="https://tailwindcss.com">
-  <img height="50" title="Tailwind" alt="Tailwind Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/tailwindcss.png">
+  <img height="50" title="Tailwind" alt="Tailwind Logo" src="https://img.icons8.com/?size=100&id=WoopfRcDj3RF&format=png&color=000000">
 </a> &#xa0; &#xa0;
-<a href="https://postgresql.org">
-  <img height="50" title="Postgresql" alt="Postgresql Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/postgresql.png">
+<a href="https://www.mysql.com">
+  <img height="50" title="Postgresql" alt="MySQL Logo" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
+</a> &#xa0; &#xa0;
+<a href="https://getbootstrap.com">
+  <img height="50" title="Bootstrap" alt="Bootstrap Logo" src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000">
 </a> &#xa0; &#xa0;
 
 &nbsp;
 ---
 
-<p align="center"><a href="https://www.linkedin.com/in/hjrsmail/"><img height="50px"src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/linkedin.png"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/hjrsmail/"><img height="50px"src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000"></a></p>
 
 
 
