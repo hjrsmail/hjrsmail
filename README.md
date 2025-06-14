@@ -8,6 +8,10 @@ Currently diving deeper into frontend development with Next.js ⚛️.
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ---
 
 ## My Favorite Technologies
