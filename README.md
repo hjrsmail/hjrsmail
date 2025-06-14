@@ -14,7 +14,7 @@ Currently diving deeper into frontend development with Next.js ⚛️.
   <img height="50" title="Laravel" alt="Laravel Logo" src="https://github.com/laravel/art/blob/master/laravel-logo.png">
 </a> &#xa0; &#xa0;
 <a href="https://nextjs.org">
-  <img height="50" title="NextJs" alt="Next Logo" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000">
+  <img height="50" title="NextJs" alt="Next Logo" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000">
 </a> &#xa0; &#xa0;
 <a href="https://typescriptlang.org">
   <img height="50" title="Typescript" alt="Typescript Logo" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
