@@ -6,17 +6,14 @@ Saya adalah seorang web developer dengan minat di bidang frontend & backend, ser
 
 ## My Favorite Technologies
 
-<a href="https://svelte.dev">
-  <img height="50" title="Svelte" alt="Svelte Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/svelte.webp">
-</a> &#xa0; &#xa0;
-<a href="https://typescriptlang.org">
-  <img height="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/ts-logo-128.png">
+<a href="https://laravel.com">
+  <img height="50" title="Svelte" alt="Svelte Logo" src="https://github.com/laravel/art/blob/master/laravel-logo.png">
 </a> &#xa0; &#xa0;
 <a href="https://nextjs.org">
   <img height="50" title="NextJs" alt="Next Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/next-js.png">
 </a> &#xa0; &#xa0;
-<a href="https://firebase.google.com">
-  <img height="50" title="Firebase" alt="Firebase Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/firebase.png">
+<a href="https://typescriptlang.org">
+  <img height="50" title="Typescript" alt="Typescript Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/ts-logo-128.png">
 </a> &#xa0; &#xa0;
 <a href="https://tailwindcss.com">
   <img height="50" title="Tailwind" alt="Tailwind Logo" src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/tailwindcss.png">
@@ -28,7 +25,7 @@ Saya adalah seorang web developer dengan minat di bidang frontend & backend, ser
 &nbsp;
 ---
 
-<p align="center"><a href="https://www.linkedin.com/in/aldwiputra/"><img height="50px"src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/linkedin.png"></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/hjrsmail/"><img height="50px"src="https://raw.githubusercontent.com/revou-fsse-1/w0-my-profile-aldwiputra/main/images/linkedin.png"></a></p>
 
 
 
