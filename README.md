@@ -1,7 +1,7 @@
 # Welcome guyss👋
 
 <!-- ![banner](/images/banner.png) -->
-<img align="center" src="images/banner.png" style="background-cover" width="846" alt="gif of Jim Carrey workin"/>
+<!-- <img align="center" src="images/banner.png" style="background-cover" width="846" alt="gif of Jim Carrey workin"/> -->
 
 I'm a **Junior Web Developer** based in **Makassar, Indonesia** with experience in building applications using Laravel, Tailwind CSS, and Bootstrap.
 Currently diving deeper into frontend development with Next.js ⚛️.
