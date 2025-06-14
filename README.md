@@ -1,4 +1,4 @@
-## Welcome guyss👋
+# Welcome guyss👋
 
 I'm a **Junior Web Developer** based in **Makassar, Indonesia** with experience in building applications using Laravel, Tailwind CSS, and Bootstrap.
 Currently diving deeper into frontend development with Next.js ⚛️.
@@ -36,11 +36,16 @@ Currently diving deeper into frontend development with Next.js ⚛️.
 
 ---
 
-##My Social Media
+## My Social Media
 
-<p align="center"><a href="https://www.linkedin.com/in/hjrsmail"><img height="50px"src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000"></a></p>
-<p align="center"><a href="https://www.instagram.com/hjrsmail"><img height="50px"src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000"></a></p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/hjrsmail">
+    <img height="50" title="Postgresql" alt="MySQL Logo" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000">
+  </a> &#xa0; &#xa0;
+  <a href="https://www.instagram.com/hjrsmail">
+    <img height="50" title="Postgresql" alt="MySQL Logo" src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000">
+  </a> &#xa0; &#xa0;
+</p>
 
 
 <!--
