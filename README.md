@@ -4,11 +4,7 @@ I'm a **Junior Web Developer** based in **Makassar, Indonesia** with experience 
 Currently diving deeper into frontend development with Next.js ⚛️.
 
 💼 I'm working as a freelancer and actively seeking new job opportunities in the tech industry 🚀.
-<img align="right" style="margin-right: 30px" src="https://media.tenor.com/LJC9j1vSkXwAAAAd/j-im-carreytyping-busy-working.gif" height="150" alt="gif of Jim Carrey workin"/>
 
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
@@ -16,6 +12,7 @@ Currently diving deeper into frontend development with Next.js ⚛️.
 
 ## My Favorite Technologies
 
+<img align="right" style="margin-right: 30px" src="https://media.tenor.com/LJC9j1vSkXwAAAAd/j-im-carreytyping-busy-working.gif" height="150" alt="gif of Jim Carrey workin"/>
 <a href="https://laravel.com">
   <img height="50" title="Laravel" alt="Laravel Logo" src="https://github.com/laravel/art/blob/master/laravel-logo.png">
 </a> &#xa0; &#xa0;
