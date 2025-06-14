@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome guyss👋
 
 I'm a **Junior Web Developer** based in **Makassar, Indonesia** with experience in building applications using Laravel, Tailwind CSS, and Bootstrap.
 Currently diving deeper into frontend development with Next.js ⚛️.
