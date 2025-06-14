@@ -5,9 +5,6 @@ Currently diving deeper into frontend development with Next.js ⚛️.
 
 💼 I'm working as a freelancer and actively seeking new job opportunities in the tech industry 🚀.
 
-&nbsp;
-&nbsp;
-&nbsp;
 ---
 
 ## My Favorite Technologies
@@ -34,11 +31,9 @@ Currently diving deeper into frontend development with Next.js ⚛️.
 
 &nbsp;
 
----
-
 ## My Social Media
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/hjrsmail">
     <img height="50" title="Postgresql" alt="MySQL Logo" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000">
   </a> &#xa0; &#xa0;
