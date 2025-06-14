@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a Junior Web Developer with experience in building applications using Laravel, Tailwind CSS, and Bootstrap.
+I'm a **Junior Web Developer** based in **Makassar, Indonesia** with experience in building applications using Laravel, Tailwind CSS, and Bootstrap.
 Currently diving deeper into frontend development with Next.js ⚛️.
 
 💼 I'm working as a freelancer and actively seeking new job opportunities in the tech industry 🚀.
