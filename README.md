@@ -37,7 +37,7 @@ Currently diving deeper into frontend development with Next.js ⚛️.
 ## My Social Media
 
 <p align="start">
-  <a href="https://www.linkedin.com/in/hjrsmail">
+  <a href="https://www.linkedin.com/in/hijir-ismail">
     <img height="50" title="Postgresql" alt="MySQL Logo" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000">
   </a> &#xa0; &#xa0;
   <a href="https://www.instagram.com/hjrsmail">
