@@ -10,7 +10,7 @@ Currently diving deeper into frontend development with **Next.js** ⚛️
 
 ## 🚀 My Favorite Technologies
 
-<div align="center">
+<div align="start">
   <a href="https://laravel.com" target="_blank" title="Laravel">
     <img height="50" alt="Laravel Logo" src="https://github.com/laravel/art/blob/master/laravel-logo.png">
   </a>
@@ -39,7 +39,7 @@ Currently diving deeper into frontend development with **Next.js** ⚛️
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="start">
   <a href="https://www.linkedin.com/in/hjrsmail" target="_blank" title="LinkedIn">
     <img height="50" alt="LinkedIn Logo" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000">
   </a>
