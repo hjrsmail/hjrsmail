@@ -1,16 +1,15 @@
-# Welcome guyss👋
+# 👋 Welcome!
 
-<!-- ![banner](/images/banner.png) -->
-<!-- <img align="center" src="images/banner.png" style="background-cover" width="846" alt="gif of Jim Carrey workin"/> -->
+I'm a **Junior Web Developer** based in **Makassar, Indonesia** 🇮🇩  
+Experienced in building modern web applications using **Laravel**, **Tailwind CSS**, and **Bootstrap**.  
+Currently diving deeper into frontend development with **Next.js** ⚛️
 
-I'm a **Junior Web Developer** based in **Makassar, Indonesia** with experience in building applications using Laravel, Tailwind CSS, and Bootstrap.
-Currently diving deeper into frontend development with Next.js ⚛️.
-
-💼 I'm working as a freelancer and actively seeking new job opportunities in the tech industry 🚀.
+💼 I’m working as a freelancer and **open to new opportunities** in the tech industry 🚀
 
 ---
 
-## My Favorite Technologies
+## 🚀 My Favorite Technologies
+
 
 <img align="right" style="margin-right: 30px" src="https://media.tenor.com/LJC9j1vSkXwAAAAd/j-im-carreytyping-busy-working.gif" height="150" alt="gif of Jim Carrey workin"/>
 <a href="https://laravel.com">
@@ -31,10 +30,33 @@ Currently diving deeper into frontend development with Next.js ⚛️.
 <a href="https://www.mysql.com">
   <img height="50" title="Postgresql" alt="MySQL Logo" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
 </a> &#xa0; &#xa0;
+=======
+<div align="center">
+  <a href="https://laravel.com" target="_blank" title="Laravel">
+    <img height="50" alt="Laravel Logo" src="https://github.com/laravel/art/blob/master/laravel-logo.png">
+  </a>
+  <a href="https://nextjs.org" target="_blank" title="Next.js">
+    <img height="50" alt="Next.js Logo" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
+    <img height="50" alt="TypeScript Logo" src="https://img.icons8.com/?size=100&id=HcQEdKCkXUs3&format=png&color=000000">
+  </a>
+  <a href="https://tailwindcss.com" target="_blank" title="Tailwind CSS">
+    <img height="50" alt="Tailwind CSS Logo" src="https://img.icons8.com/?size=100&id=WoopfRcDj3RF&format=png&color=000000">
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" title="Bootstrap">
+    <img height="50" alt="Bootstrap Logo" src="https://img.icons8.com/?size=100&id=EzPCiQUqWWEa&format=png&color=000000">
+  </a>
+  <a href="https://www.mysql.com" target="_blank" title="MySQL">
+    <img height="50" alt="MySQL Logo" src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000">
+  </a>
+</div>
 
-&nbsp;
+<div align="right">
+  <img src="https://media.tenor.com/LJC9j1vSkXwAAAAd/j-im-carreytyping-busy-working.gif" height="150" alt="Jim Carrey working gif" />
+</div>
 
-## My Social Media
+---
 
 <p align="start">
   <a href="https://www.linkedin.com/in/hijir-ismail">
@@ -43,20 +65,28 @@ Currently diving deeper into frontend development with Next.js ⚛️.
   <a href="https://www.instagram.com/hjrsmail">
     <img height="50" title="Postgresql" alt="MySQL Logo" src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000">
   </a> &#xa0; &#xa0;
+=======
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hjrsmail" target="_blank" title="LinkedIn">
+    <img height="50" alt="LinkedIn Logo" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000">
+  </a>
+  <a href="https://www.instagram.com/hjrsmail" target="_blank" title="Instagram">
+    <img height="50" alt="Instagram Logo" src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000">
+  </a>
 </p>
 
+---
 
 <!--
-**hjrsmail/hjrsmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hjrsmail/hjrsmail** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Ideas for content:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
