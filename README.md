@@ -14,7 +14,7 @@ Currently diving deeper into frontend development with Next.js ⚛️.
 
 <img align="right" style="margin-right: 30px" src="https://media.tenor.com/LJC9j1vSkXwAAAAd/j-im-carreytyping-busy-working.gif" height="150" alt="gif of Jim Carrey workin"/>
 <a href="https://laravel.com">
-  <img height="50" title="Laravel" alt="Laravel Logo" src="https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png">
+  <img height="50" title="Laravel" alt="Laravel Logo" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg">
 </a> &#xa0; &#xa0;
 <a href="https://nextjs.org">
   <img height="50" title="NextJs" alt="Next Logo" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000">
