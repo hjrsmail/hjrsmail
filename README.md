@@ -56,6 +56,7 @@ Currently diving deeper into frontend development with **Next.js** ⚛️
   <a href="https://www.linkedin.com/in/hjrsmail" target="_blank" title="LinkedIn">
     <img height="50" alt="LinkedIn Logo" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/hjrsmail" target="_blank" title="Instagram">
     <img height="50" alt="Instagram Logo" src="https://img.icons8.com/?size=100&id=hFoVFpm6gl9A&format=png&color=000000">
   </a>
