@@ -52,7 +52,7 @@ Currently diving deeper into frontend development with **Next.js** ⚛️
 
 ## 🌐 Connect With Me
 
-<p align="start">
+<p align="left">
   <a href="https://www.linkedin.com/in/hjrsmail" target="_blank" title="LinkedIn">
     <img height="50" alt="LinkedIn Logo" src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000">
   </a>
@@ -63,6 +63,12 @@ Currently diving deeper into frontend development with **Next.js** ⚛️
 </p>
 
 ---
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hjrsmail&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br /><br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjrsmail&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+</div>
 
 <!--
 **hjrsmail/hjrsmail** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
