@@ -64,11 +64,30 @@ Currently diving deeper into frontend development with **Next.js** ⚛️
 
 ---
 
+## 📊 GitHub Stats and Stacks
+
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hjrsmail&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjrsmail&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hjrsmail&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
+    &nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjrsmail&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" height="180" />
+  </div>
 </div>
+
+
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=hjrsmail&theme=tokyonight&no-bg=true&margin-w=10&margin-h=15&column=4" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![GitHub Snake dark](https://github.com/hjrsmail/hjrsmail/blob/output/github-contribution-grid-snake-dark.svg)
+
+
 
 <!--
 **hjrsmail/hjrsmail** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
